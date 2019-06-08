@@ -23,8 +23,8 @@ mutate_cond(.data, condition, ..., envir = parent.frame())
 satisfy the condition.
 }
 \examples{
-require(dplyr)
-require(magrittr)
+library(dplyr)
+library(magrittr)
 data(iris)
 iris \%>\%
    mutate(aux = 0) \%>\%

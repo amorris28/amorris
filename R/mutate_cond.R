@@ -13,8 +13,8 @@
 #' @importFrom magrittr %>%
 #'
 #' @examples
-#' require(dplyr)
-#' require(magrittr)
+#' library(dplyr)
+#' library(magrittr)
 #' data(iris)
 #' iris %>%
 #'    mutate(aux = 0) %>%
