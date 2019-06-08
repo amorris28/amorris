@@ -1,0 +1,11 @@
+Package: amorris
+Version: 0.1
+Date: 2019-06-07
+Title: Andrew Morris' Misc Functions
+Description: Custom R functions for means, models, and various utilities.
+Author: Andrew H Morris <amorris28@gmail.com>
+Maintainer: Andrew H Morris <amorris28@gmail.com>
+Encoding: UTF-8
+License: GPL-3
+RoxygenNote: 6.1.1
+Imports: dplyr, magrittr
