@@ -2,6 +2,7 @@
 
 export("%notin%")
 export(calc_wfps)
+export(lapplyWithRename)
 export(mtry_finder)
 export(mutate_cond)
 export(rarefy_mean)
