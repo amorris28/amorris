@@ -1,4 +1,3 @@
-# R/amorris
+# R/morris
 
-R package containing miscellaneous functions created by Andrew H Morris or
-salvaged from the web.
+R functions that are useful for Andrew Morris
