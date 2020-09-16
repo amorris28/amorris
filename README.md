@@ -4,7 +4,9 @@ R package containing R functions that are useful for Andrew Morris.
 
 ## Install
 
-`r devtools::install_github("amorris28/morris")`
+```
+devtools::install_github("amorris28/morris")
+```
 
 ## Functions
 
