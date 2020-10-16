@@ -4,10 +4,12 @@
 \alias{se}
 \title{Calculate standard error}
 \usage{
-se(x)
+se(x, na.rm = FALSE)
 }
 \arguments{
 \item{x}{vector of numeric values}
+
+\item{na.rm}{whether or not to remove NAs, default is FALSE.}
 }
 \value{
 Single numeric value of the standard error

@@ -4,8 +4,13 @@
 \alias{rarefy_mean}
 \title{Rarefy mean}
 \usage{
-rarefy_mean(comm, sample = min(rowSums(comm)), n = 10,
-  remove.singlets = TRUE, digits = FALSE)
+rarefy_mean(
+  comm,
+  sample = min(rowSums(comm)),
+  n = 10,
+  remove.singlets = TRUE,
+  digits = FALSE
+)
 }
 \arguments{
 \item{comm}{Community matrix}

@@ -7,5 +7,5 @@ Author: Andrew H Morris <amorris28@gmail.com>
 Maintainer: Andrew H Morris <amorris28@gmail.com>
 Encoding: UTF-8
 License: GPL-3
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Imports: dplyr, magrittr, vegan
