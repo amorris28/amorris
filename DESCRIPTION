@@ -1,11 +1,11 @@
 Package: morris
 Version: 0.1
-Date: 2019-06-07
+Date: 2022-11-21
 Title: Andrew Morris' Misc Functions
 Description: Custom R functions for means, models, and various utilities.
-Author: Andrew H Morris <amorris28@gmail.com>
-Maintainer: Andrew H Morris <amorris28@gmail.com>
+Author: Andrew H Morris <andrewmorris@mailbox.org>
+Maintainer: Andrew H Morris <andrewmorris@mailbox.org>
 Encoding: UTF-8
 License: GPL-3
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.2
 Imports: dplyr, magrittr, vegan
